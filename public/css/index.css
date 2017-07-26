@@ -1,4 +1,9 @@
 
 body{
-  background-color: cornsilk;
+  background-color: black;
+}
+
+canvas {
+  margin: auto;
+  margin-top: 2%;
 }
